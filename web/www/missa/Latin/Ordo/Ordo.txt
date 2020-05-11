@@ -14,7 +14,7 @@ M. Ad Deum, qui lætíficat juventútem meam.
 !Postea alternatim cum Ministris dicit sequentem:
 !Ps. 42, 1-5. 
 S. Júdica me, Deus, et discérne causam meam de gente non sancta: ab hómine iníquo et dolóso érue me.
-M. Quia tu es, Deus, fortitudo mea: quare me reppulísti, et quare tristis incédo, dum afflígit me inimícus?
+M. Quia tu es, Deus, fortitúdo mea: quare me repulísti, et quare tristis incédo, dum afflígit me inimícus?
 S. Emítte lucem tuam et veritátem tuam: ipsa me deduxérunt, et adduxérunt in montem sanctum tuum et in tabernácula tua.
 M. Et introíbo ad altáre Dei: ad Deum, qui lætíficat juventútem meam.
 S. Confitébor tibi in cíthara, Deus, Deus meus: quare tristis es, ánima mea, et quare contúrbas me?
@@ -30,13 +30,13 @@ V. Adjutórium nostrum + in nómine Dómini.
 R. Qui fecit coelum et terram.
 !Deinde junctis manibus profunde inclinatus facit Confessionem.
 v. Confíteor Deo omnipoténti, beátæ Maríæ semper Vírgini, beáto Michaéli Archángelo, beáto Joánni Baptístæ, sanctis Apóstolis Petro et Paulo, ómnibus Sanctis, et vobis, fratres: quia peccávi nimis cogitatióne, verbo et opere: (Percutit sibi pectus ter, dicens:) mea culpa, mea culpa, mea máxima culpa. Ideo precor beátam Maríam semper Vírginem, beátum Michaélem Archángelum, beátum Joánnem Baptístam, sanctos Apóstolos Petrum et Paulum, omnes Sanctos, et vos, fratres, orare pro me ad Dóminum, Deum nostrum.
-!x!M. Misereátur tui omnípotens Deus, et, dimíssis peccátis tuis, perdúcat te ad vitam ætérnam.
-!x!!Sacerdos dicit: 
-!x!S. Amen,
-!x!!et erigit se. Deinde Ministri repetunt Confessionem: et ubi a Sacerdote dicebatur vobis, fratres, et vos, fratres, a Ministris dicitur tibi, pater, et te, pater. 
-!x!M. Confíteor Deo omnipoténti, beátæ Maríæ semper Vírgini, beáto Michaéli Archángelo, beáto Joánni Baptístæ, sanctis Apóstolis Petro et Paulo, ómnibus Sanctis, et tibi, pater: quia peccávi nimis cogitatióne, verbo et opere: mea culpa, mea culpa, mea máxima culpa. Ideo precor beátam Maríam semper Vírginem, beátum Michaélem Archángelum, beátum Joánnem Baptístam, sanctos Apóstolos Petrum et Paulum, omnes Sanctos, et te, pater, orare pro me ad Dóminum, Deum nostrum.
+M. Misereátur tui omnípotens Deus, et, dimíssis peccátis tuis, perdúcat te ad vitam ætérnam.
+!Sacerdos dicit: 
+S. Amen.
+!et erigit se. Deinde Ministri repetunt Confessionem: et ubi a Sacerdote dicebatur vobis, fratres, et vos, fratres, a Ministris dicitur tibi, pater, et te, pater. 
+M. Confíteor Deo omnipoténti, beátæ Maríæ semper Vírgini, beáto Michaéli Archángelo, beáto Joánni Baptístæ, sanctis Apóstolis Petro et Paulo, ómnibus Sanctis, et tibi, pater: quia peccávi nimis cogitatióne, verbo et opere: mea culpa, mea culpa, mea máxima culpa. Ideo precor beátam Maríam semper Vírginem, beátum Michaélem Archángelum, beátum Joánnem Baptístam, sanctos Apóstolos Petrum et Paulum, omnes Sanctos, et te, pater, orare pro me ad Dóminum, Deum nostrum.
 !Postea Sacerdos, junctis manibus, facit absolutionem, dicens:
-S. Misereátur nostri (vestri) omnípotens Deus, et, dimíssis peccátis nostris (vestris), perdúcat nos (vos) ad vitam ætérnam. 
+S. Misereátur vestri omnípotens Deus, et, dimíssis peccátis vestris, perdúcat vos ad vitam ætérnam. 
 R. Amen.
 !Signat se signo crucis, dicens: 
 S. Indulgéntiam, + absolutionem et remissiónem peccatórum nostrórum tríbuat nobis omnípotens et miséricors Dóminus.
@@ -86,7 +86,7 @@ S. Kýrie, eléison.
 !! Gloria
 !*&GloriaM
 !Postea in medio Altaris extendens et jungens manus, caputque aliquantulum inclínans, dicit, si dicendum est, Glória in excélsis Deo, et prosequitur junctis manibus. Cum dicit Adorámus te, Grátias agimus tibi, et Jesu Christe, et Suscipe deprecatiónem, inclinat caput; et in fine dicens: Cum Sancto Spíritu, signat se a fronte ad pectus.
-v. Gloria in excelsis Deo Et in terra pax homínibus bonæ voluntátis. Laudámus te. Benedícimus te. Adorámus te. Glorificámus te. Grátias ágimus tibi propter magnam glóriam tuam. Dómine Deus, Rex coeléstis, Deus Pater omnípotens. Dómine Fili unigénite, Jesu Christe. Dómine Deus, Agnus Dei, Fílius Patris. Qui tollis peccáta mundi, miserére nobis. Qui tollis peccáta mundi, súscipe deprecatiónem nostram. Qui sedes ad déxteram Patris, miserére nobis. Quóniam tu solus Sanctus. Tu solus Dóminus. Tu solus Altíssimus, Jesu Christe. Cum Sancto Spíritu + in glória Dei Patris. Amen.
+v. Glória in excélsis Deo. Et in terra pax homínibus bonæ voluntátis. Laudámus te. Benedícimus te. Adorámus te. Glorificámus te. Grátias ágimus tibi propter magnam glóriam tuam. Dómine Deus, Rex coeléstis, Deus Pater omnípotens. Dómine Fili unigénite, Jesu Christe. Dómine Deus, Agnus Dei, Fílius Patris. Qui tollis peccáta mundi, miserére nobis. Qui tollis peccáta mundi, súscipe deprecatiónem nostram. Qui sedes ad déxteram Patris, miserére nobis. Quóniam tu solus Sanctus. Tu solus Dóminus. Tu solus Altíssimus, Jesu Christe. Cum Sancto Spíritu + in glória Dei Patris. Amen.
 
 #Oratio
 !Deinde osculatur Altare in medio, et versus ad populum dicit: 
@@ -139,7 +139,7 @@ R. Et cum spíritu tuo.
 # Credo
 !*&Credo
 !Deinde ad medium Altaris extendens, elevans et jungens manus, dicit, si dicendum est, Credo in unum Deum, et prosequitur junctis manibus. Cum dicit Deum, caput Cruci inclinat: quod similiter facit, cum dicit Jesum Christum, et simul adorátur. Ad illa autem verba Et incarnátus est, genuflectit usque dum dicatur Et homo factus est. In fine ad Et vitam ventúri saeculi, signat se signo crucis a fronte ad pectus. 
-v. Credo in unum Deum, Patrem omnipoténtem, factórem coeli et terræ, visibílium ómnium et in visibílium. Et in unum Dóminum Jesum Christum, Fílium Dei unigénitum. Et ex Patre natum ante ómnia saecula. Deum de Deo, lumen de lúmine, Deum verum de Deo vero. Génitum, non factum, consubstantiálem Patri: per quem ómnia facta sunt. Qui propter nos hómines et propter nostram salútem descéndit de coelis. (Hic genuflectitur) Et incarnátus est de Spíritu Sancto ex María Vírgine: Et homo factus est. Crucifíxus étiam pro nobis: sub Póntio Piláto passus, et sepúltus est. Et resurréxit tértia die, secúndum Scriptúras. Et ascéndit in coelum: sedet ad déxteram Patris. Et íterum ventúrus est cum glória judicáre vivos et mórtuos: cujus regni non erit finis. Et in Spíritum Sanctum, Dóminum et vivificántem: qui ex Patre Filióque procédit. Qui cum Patre et Fílio simul adorátur et conglorificátur: qui locútus est per Prophétas. Et unam sanctam cathólicam et apostólicam Ecclésiam. Confíteor unum baptísma in remissiónem peccatórum. Et exspécto resurrectiónem mortuórum. Et vitam ventúri saeculi. Amen.
+v. Credo in unum Deum, Patrem omnipoténtem, factórem coeli et terræ, visibílium ómnium et invisibílium. Et in unum Dóminum Jesum Christum, Fílium Dei unigénitum. Et ex Patre natum ante ómnia saecula. Deum de Deo, lumen de lúmine, Deum verum de Deo vero. Génitum, non factum, consubstantiálem Patri: per quem ómnia facta sunt. Qui propter nos hómines et propter nostram salútem descéndit de coelis. (Hic genuflectitur) Et incarnátus est de Spíritu Sancto ex María Vírgine: Et homo factus est. Crucifíxus étiam pro nobis: sub Póntio Piláto passus, et sepúltus est. Et resurréxit tértia die, secúndum Scriptúras. Et ascéndit in coelum: sedet ad déxteram Patris. Et íterum ventúrus est cum glória judicáre vivos et mórtuos: cujus regni non erit finis. Et in Spíritum Sanctum, Dóminum et vivificántem: qui ex Patre Filióque procédit. Qui cum Patre et Fílio simul adorátur et conglorificátur: qui locútus est per Prophétas. Et unam sanctam cathólicam et apostólicam Ecclésiam. Confíteor unum baptísma in remissiónem peccatórum. Et exspécto resurrectiónem mortuórum. Et vitam ventúri saeculi. Amen.
 
 # Offertorium
 !Deinde osculatur Altare, et versus ad populum, dicit: 
@@ -320,7 +320,7 @@ v. Pax tecum.
 R. Et cum spíritu tuo.
 
 !*D
-!In Missis Defunctorum non datur pax, neque dicitur Oratio Domine Jesu Christe, qui dixisti.
+!In Missis Defunctorum non datur pax, neque dicitur oratio Domine Jesu Christe, qui dixisti.
 
 v. Dómine Jesu Christe, Fili Dei vivi, qui ex voluntáte Patris, cooperánte Spíritu Sancto, per mortem tuam mundum vivificásti: líbera me per hoc sacrosánctum Corpus et Sánguinem tuum ab ómnibus iniquitátibus meis, et univérsis malis: et fac me tuis semper inhærére mandátis, et a te numquam separári permíttas: Qui cum eódem Deo Patre et Spíritu Sancto vivis et regnas Deus in saecula sæculórum. Amen.
 
@@ -345,7 +345,6 @@ v. Sanguis Dómini nostri Jesu Christi custódiat ánimam meam in vitam ætérna
 
 &Communio_Populi
 wait16
-{ Anima Christi, sanctifica me. Corpus Christi, salva me. Sanguis Christi, inebria me. Aqua lateris Christi, lava me. Passio Christi, conforta me. O bone Jesu, exaudi me. Intra tua vulnera absconde me. Ne permittas me separari a te. Ab hoste maligno defende me. In hora mortis meae voca me. Et iube me venire ad te, Ut cum Sanctis tuis laudem te. In saecula saeculorum. Amen. }
 
 !Postea dicit:
 v. Quod ore súmpsimus, Dómine, pura mente capiámus: et de munere temporáli fiat nobis remédium sempitérnum.
@@ -395,16 +394,16 @@ R. Et cum spiritu tuo.
 !Finito Evangelio sancti Joannis, discedens ab Altari, pro gratiarum actione dicit Ant. Trium puerórum, cum reliquis, ut habetur in principio Missalis.
 
 !*R
-# Oratio Leonis XIII
+# Orationes Leonis XIII
 !  
-S. Ave Maria, gratia plena, Dominus tecum, benedicta tu in mulieribus et benedictus fructis ventris tui, Jesus. 
+S. Ave Maria, gratia plena, Dominus tecum, benedicta tu in mulieribus et benedictus fructus ventris tui, Jesus.
 O. Sancta Maria, Mater Dei, ora pro nobis peccatoribus, nunc et in hora mortis nostrae. Amen.
-S. Ave Maria, gratia plena, Dominus tecum, benedicta tu in mulieribus et benedictus fructis ventris tui, Jesus. 
+S. Ave Maria, gratia plena, Dominus tecum, benedicta tu in mulieribus et benedictus fructus ventris tui, Jesus.
 O. Sancta Maria, Mater Dei, ora pro nobis peccatoribus, nunc et in hora mortis nostrae. Amen.
-S. Ave Maria, gratia plena, Dominus tecum, benedicta tu in mulieribus et benedictus fructis ventris tui, Jesus. 
+S. Ave Maria, gratia plena, Dominus tecum, benedicta tu in mulieribus et benedictus fructus ventris tui, Jesus.
 O. Sancta Maria, Mater Dei, ora pro nobis peccatoribus, nunc et in hora mortis nostrae. Amen.
 _
-O. Salve Regina, Mater misericordiae, vita, dulcedo, et spes nostra, salve. Ad te clamamus, exsules filii Evae. Ad te suspiramus gementes et fientes in hac lacrymarum valle. Eia ergo, Advocata nostra, illos tuos misericordes oculos ad nos converte. Et Jesum, benedictum fructum ventris tui, nobis, post hoc exilium, ostende. O clemens, o pia, o dulcis Virgo Maria. 
+O. Salve Regina, Mater misericordiae, vita, dulcedo, et spes nostra, salve. Ad te clamamus, exsules filii Evae. Ad te suspiramus gementes et flentes in hac lacrymarum valle. Eia ergo, Advocata nostra, illos tuos misericordes oculos ad nos converte. Et Jesum, benedictum fructum ventris tui, nobis, post hoc exilium, ostende. O clemens, o pia, o dulcis Virgo Maria.
 S. Ora pro nobis, sancta Dei Genitrix. 
 O. Ut digni efficiamur promissionibus Christi.
 _

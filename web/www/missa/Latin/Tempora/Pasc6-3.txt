@@ -1,3 +1,5 @@
+@Tempora/Pasc5-4
+
 [Rank]
 Feria IV infra Octavam Ascensionis;;Semiduplex;;2;;ex Tempora/Pasc5-4
 
@@ -7,5 +9,5 @@ Feria IV post Ascensionem;;Feria;;1
 [Rule]
 ex Tempora/Pasc5-4;
 Gloria
-Suffr=Maria3;Ecclesiae,Papa;;
+Suffr=Maria3;Ecclesiæ,Papa;;
 

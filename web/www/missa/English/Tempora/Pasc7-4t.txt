@@ -16,12 +16,12 @@ Prefatio=Spiritu
 [Introitus]
 !Wis 1:7.
 v. The Spirit of the Lord fills the world, alleluia, is all-embracing, and knows~
-man’s utterance, alleluia, alleluia, alleluia.
+manâ€™s utterance, alleluia, alleluia, alleluia.
 !Ps 67:2
 God arises; His enemies are scattered, and those who hate Him flee before Him.
 &Gloria
 v. The Spirit of the Lord fills the world, alleluia, is all-embracing, and knows~
-man’s utterance, alleluia, alleluia, alleluia.
+manâ€™s utterance, alleluia, alleluia, alleluia.
 
 [Oratio]
 O God, You Who on this day have taught the hearts of the faithful by the light~
@@ -32,7 +32,7 @@ $Per Dominum eiusdem
 [Lectio]
 Lesson from the Acts of Apostles
 !Acts 8:5-8.
-In those days, Philip went down to the city of Samaria and preached the Christ to them. And the crowds with one accord gave heed to what was said by Philip, listening to him and seeing the miracles that he worked. For unclean spirits, crying with a loud voice, went out of many possessed persons, and may paralytics and cripples were cured. So there was great joy in that city.
+In those days, Philip went down to the city of Samaria and preached the Christ to them. And the crowds with one accord gave heed to what was said by Philip, listening to him and seeing the miracles that he worked. For unclean spirits, crying with a loud voice, went out of many possessed persons, and many paralytics and cripples were cured. So there was great joy in that city.
 
 [Graduale]
 Alleluia, alleluia.

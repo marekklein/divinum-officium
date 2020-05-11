@@ -1,16 +1,10 @@
 [Rank]
-S. Lini Papae et Martyris;;Semiduplex;;2;;vide C4b
+S. Lini Papæ et Martyris;;Semiduplex;;2;;vide C4b
 
 [Rule]
 OPapaM=Linum;
 vide C4b;
 Gloria
-
-[Oratio]
-Deus, qui nos beati Lini Martyris tui atque Pontificis annua solemnitate~
-laetificas: concede propitius; ut cujus natalitia colimus, de eiusdem etiam~
-protectione gaudeamus.
-$Per Dominum
 
 [Commemoratio Oratio]
 !Pro S. Thecla Virg. et Mart.

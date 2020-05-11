@@ -22,6 +22,9 @@
 [#Canticum]
 #Canticle
 
+[#Canticum Nunc dimittis]
+#Canticle Nunc dimittis
+
 [#Preces Dominicales]
 #Sunday Intercessions
 
@@ -198,3 +201,7 @@ Matt|Mark|Luke|John
 
 [Antiphona finalis BMV]
 Final Antiphon of the Blessed Virgin Mary
+
+[Divinum auxilium]
+May the divine assistance + remain with us always.
+And with our brothers, who are absent. Amen.

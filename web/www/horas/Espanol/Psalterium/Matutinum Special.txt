@@ -1,0 +1,602 @@
+[Invit]
+Dominica = El Señor nos ha creado. * Venid a adorarlo.
+Feria II = Venid. * Aclamemos al Señor.
+Feria III = Aclamemos alegres * a Dios, Salvador nuestro.
+Feria IV = Al Dios grande, al Señor, * Venid a adorarlo.
+Feria V = Al Señor, al gran Rey, * venid a adorarlo.
+Feria VI =  Dios es nuestro Señor. * Venid a adorarlo.
+Sabbato = Pueblo del Señor, ovejas de su rebaño. * Venid a adorarlo.
+Invit 1 = Adoremos al Señor, * Creador nuestro.
+
+[Invit Trid]
+Dominica = Adoremos al Señor, * Creador nuestro.
+Feria II = Venid, regocijémonos. 
+Feria III = Aclamemos alegres a Dios, * Salvador nuestro. 
+Feria IV = Porque en su mano * tiene toda la extensión de la tierra.
+Feria V = El Señor nos ha creado, * Venid a adorarlo. 
+Feria VI = Adoremos al Señor, * Creador nuestro. 
+Sabbato = Dios es nuestro Señor. * Venid a adorarlo.
+
+[Invit Adv]
+Al Rey que vendrá como Señor, * Venid a adorarlo.
+
+[Invit Adv3]
+El Señor está cerca, * Venid a adorarlo.
+
+[Invit Nat24]
+Hoy sabréis que viene el Señor, * y mañana veréis su gloria.
+
+[Invit Quad]
+Si os levantáis antes de la aurora, que no sea en vano, * Porque el Señor ha prometido el premio a los que vigilan.
+
+[Invit Quad5]
+¡Ojalá escuchéis hoy su voz!, * No endurezcáis vuestro corazón.
+
+[Invit Pasch]
+El Señor ha resucitado, * Aleluya.
+
+[Day0 Hymnus]
+v. Levantémonos durante la noche y velemos todos; 
+Meditemos sin cesar los salmos, 
+Y con voz unánime cantemos dulcemente 
+Los himnos al Señor.
+_
+A fin de que cantando juntamente al piadoso Rey, 
+Merezcamos con sus Santos entrar 
+En la patria celeste, y juntamente gozar 
+De vida perenne.
+_
+Esta gracia nos conceda la bienaventurada Divinidad, 
+Ella que consta de Padre, de Hijo y de Espíritu Santo, 
+Y cuya gloria proclama 
+El mundo entero. 
+Amén.
+
+[Day0 Hymnus1]
+v. En el primer día en que la Trinidad 
+Beatísima creó el mundo; 
+O en el que, resucitando, 
+Vencida la muerte, el Creador nos libertó:
+_
+Levantémonos todos con la mayor diligencia, 
+Sacudiendo lejos de nosotros la pereza, 
+Y busquemos en la noche al Señor, 
+Como nos lo enseña el Profeta:
+_
+Para que atienda a nuestras súplicas 
+Y nos proteja; 
+Y libres de toda mancha, 
+Nos conceda la eterna dicha;
+_
+Y llene de beneficios 
+a los que cantamos sus alabanzas 
+En el silencio del más sagrado 
+Tiempo de este día.
+_
+Desde ahora te suplicamos, 
+Oh esplendor del Padre, 
+Que apartes de nosotros los ardores nocivos, 
+Y todo acto desordenado.
+_
+Que no se manche en la lascivia 
+Nuestro cuerpo mortal, 
+No sea que, por causa de sus ardores nos abrase 
+Después con más rigor el infierno con sus llamas.
+_
+Oh Redentor del mundo, te suplicamos 
+Que laves nuestras manchas, 
+Y nos concedas generoso 
+Los favores de la vida eterna.
+_
+Concédenoslo, oh Padre piadosísimo, 
+Y Tú, Unigénito, igual al Padre, 
+Que con el Espíritu consolador 
+Reinas por todos los siglos. 
+Amén.
+
+[Day1 Hymnus]
+v. Reparadas las fuerzas de nuestros miembros con el descanso, 
+Abandonamos el lecho; 
+Te rogamos, oh Padre, que nos asistas 
+Al cantar tus alabanzas.
+_
+Cante, ante todo, nuestra lengua tus glorias; 
+Diríjanse a ti los ardientes anhelos del alma, 
+Para que Tú seas el santo principio 
+De los actos que vamos a practicar.
+_
+Al acercarse el día, huyan las tinieblas; 
+Huya la noche ante el astro matutino, 
+Para que la culpa, hija de la noche, 
+Sea vencida por la luz de la gracia.
+_
+Te pedimos que arranques 
+De nosotros todo lo nocivo 
+Y que te sean siempre aceptables 
+Los cantos de alabanza que te dirigimos.
+_
+Concédenoslo, oh Padre misericordiosísimo, 
+Y Tú, Unigénito igual al Padre, 
+Que, con el Espíritu consolador, 
+Reinas por todos los siglos. 
+Amén.
+
+[Day2 Hymnus]
+v. Oh espejo del esplendor del Padre; 
+Tú eres la luz de la luz, y eres el día. 
+Favorece a los que, para suplicarte, 
+Te consagramos la noche con nuestros cantos.
+_
+Destierra las sombras de nuestras almas; 
+Ahuyenta la muchedumbre de enemigos infernales; 
+Aparta lejos la pesadez del sueño, 
+Para que no se apodere de nuestros tibios corazones.
+_
+Oh Cristo, asístenos con tu gracia, 
+Y perdona a cuantos en ti creen; 
+Otorga a nuestras preces 
+Lo que tus salmos predicen.
+_
+Concédenoslo, oh Padre misericordiosísimo, 
+Y Tú, el Unigénito igual al Padre, 
+Que, con el Espíritu consolador, 
+Vives y reinas por todos los siglos. 
+Amén.
+
+[Day3 Hymnus]
+v. Oh Dios de bondad, creador de los seres, 
+Tú que riges nuestros pasos, vuelve a nosotros tu mirada; 
+Líbranos del sopor funesto en que nos tiene 
+Sumergidos el sueño del pecado.
+_
+Te suplicamos, oh Cristo, Dios de santidad, 
+Que perdones nuestras culpas, 
+Ya que para alabarte nos levantamos, 
+Interrumpiendo el descanso de la noche.
+_
+Elevamos hacia ti en el seno de la noche 
+Nuestros corazones y nuestras manos, 
+Como nos lo mandó el Profeta 
+Y nos lo enseñó San Pablo con su ejemplo.
+_
+Ves, oh Señor, el mal que hemos cometido; 
+Te manifestamos lo más íntimo del corazón; 
+Perdona los pecados cometidos, 
+Atendiendo a las preces que gimiendo te dirigimos.
+_
+Concédenoslo, oh Padre misericordiosísimo, 
+Y Tú, el Unigénito igual al Padre, 
+Que, con el Espíritu consolador, 
+Vives, y reinas por todos los siglos. 
+Amén.
+
+[Day4 Hymnus]
+v. Mientras la negra noche con su oscuridad oculta 
+Los colores de las cosas de la tierra, 
+Nosotros te alabamos, y te suplicamos, 
+Oh justo Juez de los corazones:
+_
+Que quites las culpas 
+Y limpies las manchas del alma, 
+Y nos des, oh Cristo, la gracia 
+De mantenernos alejados del pecado.
+_
+He aquí que el alma pecadora languidece 
+Bajo el cruel remordimiento de la culpa, 
+Mientras se esfuerza en disipar sus tinieblas 
+Y en buscarte a ti, su Redentor.
+_
+Desvanece, sin tardanza, 
+Estas tinieblas del alma, 
+Para que así consiga disfrutar 
+En el cielo de tu luz divina.
+_
+Concédenoslo, oh Padre misericordiosísimo, 
+Y Tú, el Unigénito igual al Padre, 
+Que, con el Espíritu consolador, 
+Reinas por todos los siglos. 
+Amén.
+
+[Day5 Hymnus]
+v. Oh Divina Unidad en la Trinidad de Personas, 
+Que con tu poder riges el Universo, 
+Escucha el canto de alabanza 
+Que al despertar te ofrecemos devotamente.
+_
+Abandonamos el lecho, 
+Durante la tranquila y silenciosa noche, 
+Para implorar de tu bondad clemente, 
+El remedio de todos nuestros males.
+_
+Señor, por el poder de tu gracia, 
+Purifícanos desde el cielo de cuanto hayamos pecado 
+Durante las horas nocturnas, 
+Inspirados por las astucias del demonio.
+_
+Purifica nuestro cuerpo, 
+Enfervoriza nuestra alma; 
+Que nunca entibie nuestros corazones 
+El contagio del pecado.
+_
+Te rogamos, oh Jesucristo, Redentor nuestro, 
+Que llenes nuestro espíritu de tu luz, 
+Para evitarnos toda caída mortal 
+En el decurso de nuestros días.
+_
+Concédenoslo, oh Padre misericordiosísimo, 
+Y Tú, el Unigénito igual al Padre, 
+Que, con el Espíritu consolador, 
+Reinas por todos los siglos. 
+Amén.
+
+[Day6 Hymnus]
+v. Padre clementísimo, 
+Que riges la máquina del universo, 
+Dios Uno en la sustancia 
+Y Trino en las personas:
+_
+Acepta piadoso y benigno 
+Nuestros cantos y nuestras lágrimas, 
+A fin de que, limpio el corazón de la culpa, 
+Gocemos más plenamente en tu presencia.
+_
+Opón a los ardores malsanos de la concupiscencia y de la iracundia 
+Las llamas saludables de tu santo amor, 
+Para que velemos ceñidos de tus armas 
+Y ahuyentemos los incentivos de los placeres.
+_
+Ya que para cantar tus loores 
+Interrumpimos las horas del descanso nocturno, 
+Otórganos a todos, en cambio, 
+Los tesoros de la patria bienaventurada.
+_
+Concédenoslo, oh Padre misericordiosísimo, 
+Y Tú, el Unigénito igual al Padre, 
+Que, con el Espíritu consolador, 
+Reinas por todos los siglos.
+Amén.
+
+[Hymnus Adv]
+v. ¡Oh Soberano Verbo, salido 
+Del seno del eterno Padre, 
+Que con tu nacimiento en el tiempo 
+Socorres a los mortales!
+_
+Alumbra ahora los corazones; 
+Inflámalos con tu amor, a fin de que, 
+Dejando el corazón lo perecedero, 
+Le sacie la felicidad del cielo.
+_
+Para que cuando el tribunal del Juez 
+Condene los pecadores al fuego, 
+Y con voz amiga llame 
+A los justos al debido premio,
+_
+No seamos nosotros pasto de las llamas 
+Ni nos envuelva el espantoso torbellino, 
+Antes bien, gocemos de la visión de Dios 
+Y de las delicias celestiales.
+_
+Sea eternamente glorificado 
+Como lo ha sido siempre 
+El Padre, y el Hijo juntamente 
+Con el Espíritu Santo. 
+Amén.
+
+[Hymnus Quad]
+v. Instruidos por mística costumbre, 
+Guardemos este ayuno, 
+Constituido por el espacio 
+Tan célebre de los cuarenta días.
+_
+Así lo observaron al principio 
+La Ley y los Profetas, 
+Y lo consagró más tarde el propio Cristo, 
+Que hizo y gobierna todos los tiempos.
+_
+Moderémonos, pues, en el hablar, 
+En el comer, en el beber, 
+En el dormir y en los juegos, 
+Y prolonguemos nuestras vigilias.
+_
+Huyamos de todo lo que pueda 
+Dañar nuestra mente ociosa; 
+No demos ocasión alguna 
+A nuestro insidioso enemigo.
+_
+Aplaquemos la justa indignación del Señor; 
+Lloremos ante nuestro Juez; 
+Clamemos con voz suplicante, 
+Y digamos postrados todos: 
+_
+¡Oh Dios!, con nuestras maldades 
+Hemos ofendido tu clemencia; 
+Tú que eres indulgente, 
+Concédenos el perdón.
+_
+Acuérdate de que, aunque frágiles, 
+Somos obra de tus manos; 
+Por lo mismo te rogamos no des 
+A otros el honor de tu nombre.
+_
+Perdónanos los males cometidos; 
+Auméntanos los bienes que te pedimos, 
+para que aquí te podamos agradar, 
+Y después en la gloria eterna.
+_
+Concédenos, oh gloriosa Trinidad; 
+Haz, oh indivisa Unidad, 
+Que sea fructuoso a tus siervos, 
+El obsequio de nuestros ayunos.
+Amén.
+
+[Hymnus Quad5]
+v. Canta, lengua mía, los laureles 
+De un glorioso combate; 
+Celebra el noble triunfo 
+Del cual la Cruz es el trofeo, 
+Y manifiesta cómo el Redentor del mundo, 
+Por su inmolación reportó la victoria.
+_
+El que había formado a nuestro primer padre 
+Se compadeció de su desdicha, 
+Cuando, por el engaño del demonio, 
+Comió del fruto funesto y se precipitó en la muerte. 
+Al instante, el Creador designó el árbol 
+Que había de reparar los daños del árbol primero.
+_
+Este plan era exigido por la economía 
+De nuestra salud, a fin de que 
+La astucia del traidor protervo 
+Fuese vencida por un arte divino, 
+Y nos viniese el remedio por el mismo instrumento 
+Con que el enemigo nos había herido.
+_
+Cuando, pues, llegó la plenitud 
+Del tiempo divinamente previsto, 
+Aquél por cuyo medio el mundo había sido criado, 
+Bajó del trono del Padre 
+Y nació de un seno virginal, 
+Revestido de nuestra carne.
+_
+En su nacimiento, aparece el Niño reclinado 
+En un pesebre y exhalando débiles vagidos; 
+La Virgen Madre envuelve 
+Con pañales sus miembros 
+Y sujeta con estrechas fajas 
+Las manos y los pies de Dios.
+_
+Gloria sempiterna sea dada 
+A la santa Trinidad; 
+Igual honor sea rendido al Padre, 
+Al Hijo y al Paráclito; 
+Todos los seres alaben 
+Al que reúne la Trinidad a la Unidad. 
+Amén.
+
+[Hymnus Pasch]
+v. Oh eterno Rey de las celestes milicias, 
+Creador de todas las cosas, 
+Hijo siempre igual al Padre, 
+Antes de todos los siglos:
+_
+Tú, que, cual excelso artífice, imprimiste 
+En la frente de Adán la imagen de tu rostro, 
+Juntando al cuerpo terrestre el noble 
+Espíritu en el principio del mundo;
+_
+Tú, que, vestido de nuestra mortalidad 
+Reformaste, Hacedor supremo, la hermosura 
+Que perdió el humano linaje por la envidia 
+Y el engaño del maligno espíritu;
+_
+Tú, que, nacido un día de la Virgen, 
+Ahora resucitas del sepulcro, 
+Y que a los que estábamos sepultados en el sepulcro 
+Del pecado nos mandas resucitar juntamente contigo;
+_
+Tú, que, como Pastor eterno, lavas 
+A tu rebaño con el agua del bautismo, 
+Verdadera purificación de las almas 
+Y sepulcro de todos los crímenes;
+_
+Tú, que, como verdadero Redentor, 
+Clavado en la Cruz, derramaste 
+Pródigamente tu sangre divina, 
+Como precio de nuestra redención:
+_
+Libra de la cruel muerte de la culpa 
+A los que renacimos a la vida, 
+Para que seas eterno gozo 
+Y Pascua de nuestras almas.
+_
+Gloria sea a Dios Padre, 
+Y al Hijo resucitado de los muertos, 
+Juntamente con el Consolador, 
+Por todos los siglos de los siglos. 
+Amén.
+
+[MM LB1]
+!Lam 2:19
+v. Arise, give praise in the night, in the beginning of the watches: pour out thy heart like water before the face of the Lord: lift up thy hands to him for the life of your little children.
+$Tu autem
+_
+R.br. I will bless the Lord * at all times.
+R. I will bless the Lord * at all times.
+V. His praise shall be always in my mouth.
+R. At all times.
+&Gloria
+R. I will bless the Lord * at all times.
+
+[MM LB2]
+!Prov 3:19-20
+v. The Lord by wisdom hath founded the earth, hath established the heavens by prudence. By his wisdom the depths have broken out, and the clouds grow thick with dew.
+$Tu autem
+_
+R.br. Save me, O God, * by thy name.
+R. Save me, O God, * by thy name.
+V. And deliver me in your mercy.
+R. Save me, O God.
+&Gloria
+R.br. Save me, O God, by thy name.
+
+[MM LB3]
+!Sap 1:1-2
+v. Love justice, you that are the judges of the earth. Think of the Lord in goodness, and seek him in simplicity of heart. For he is found by them that tempt him not: and he sheweth himself to them that have faith in him.
+
+$Tu autem
+_
+R.br. In thee, O Lord, have I hoped, * let me never be confounded.
+R. In thee, O Lord, have I hoped, * let me never be confounded.
+V. Deliver me in thy justice, and rescue me. 
+R. Let me never be confounded.
+&Gloria
+R. In thee, O Lord, have I hoped, * let me never be confounded.
+
+[MM LB4]
+!Sap 3:9
+v. They that trust in him, shall understand the truth: and they that are faithful in love shall rest in him: for grace and peace is to his elect.
+$Tu autem
+_
+R.br. Sing aloud * unto God our strength.
+R. Sing aloud * unto God our strength.
+V. Sing aloud to the God of Jacob. 
+R. Our strength
+&Gloria
+R. Sing aloud * unto God our strength
+
+[MM LB5]
+!Sap 1:6-7
+v.  For the spirit of wisdom is benevolent, and will not acquit the evil speaker from his lips: for God is witness of his reins, and he is a true searcher of his heart, and a hearer of his tongue. For the spirit of the Lord hath filled the whole world: and that, which containeth all things, hath knowledge of the voice.
+$Tu autem
+_
+R.br. The mercies of the Lord * I will sing for ever. 
+R. The mercies of the Lord * I will sing for ever. 
+V. Through all generations and posterities.
+R. I will sing for ever. 
+&Gloria
+R. The mercies of the Lord * I will sing for ever. 
+[MM LB6]
+!Eccli 12:2-3
+v. Do good to the just, and thou shalt find great recompense: and if not of him, assuredly of the Lord. For there is no good for him that is always occupied in evil, and that giveth no alms: for the Highest hateth sinners, and hath mercy on the penitent.
+$Tu autem
+_
+R.br. Lord, * hear my prayer:
+R.Lord, * hear my prayer:
+V. And let my cry come unto thee. 
+R. Hear my prayer:
+&Gloria
+R. Lord, * hear my prayer.
+
+[MM Capitulum]
+!1 Cor 16:13-14
+v. Watch ye, stand fast in the faith, do manfully, and be strengthened. Let all your things be done in charity.
+$Deo gratias
+_
+V. Blessed are they that dwell in thy house, O Lord: 
+R. They shall praise thee for ever and ever. 
+
+[MM Capitulum Adv]
+!Titus 2:12-13
+v. We should live soberly, and justly, and godly in this world, Looking for the blessed hope and coming of the glory of the great God and our Savior Jesus Christ,
+$Deo gratias
+_
+V. Make haste, O Lord, make no tarrying.
+R. And deliver thy people.
+
+[MM Capitulum Quad]
+!Isa 1:16-18
+v. Wash yourselves, be clean, take away the evil of your devices from my eyes: cease to do perversely, Learn to do well: seek judgment, relieve the oppressed, judge for the fatherless, defend the widow. And then come, and accuse me, saith the Lord.
+$Deo gratias
+_
+V. They shall bear thee up in their hands, 
+R. Lest haply thou dash thy foot against a stone.
+
+[MM Capitulum Quad5]
+!Jer 11:18-19
+v. But thou, O Lord, hast shewn me, and I have known: then thou shewedst me their doings. And I was as a meek lamb, that is carried to be a victim.
+$Deo gratias
+_
+V. Deliver me, O Lord, from the evil man. 
+R. Rescue me from the unjust man.
+
+[MM Capitulum Pasc]
+!Rom 6:4
+v. For we are buried together with him by baptism into death; that as Christ is risen from the dead by the glory of the Father, so we also may walk in newness of life. 
+$Deo gratias
+_
+V. The Lord is risen, alleluia.
+R. As he told you, alleluia.
+
+[MM Capitulum C2]
+!Eccli 15:3
+v. With the bread of life and understanding, she shall feed him, and give him the water of wholesome wisdom to drink: and she shall be made strong in him, and he shall not be moved.
+$Deo gratias
+_
+V. The just shall rejoice * in the Lord,
+R. And all the upright in heart shall be praised. 
+
+[MM Capitulum C3]
+!Sap 10:17
+v. She rendered to the just the wages of their labours, and conducted them in a wonderful way: and she was to them for a covert by day, and for the light of stars by night:
+$Deo gratias
+_
+V. The souls of the just are in the hand of God, 
+R. The torment of death shall not touch them.
+
+[MM Capitulum C2p]
+!Sap 5:5
+v. Behold how they are numbered among the children of God, and their lot is among the saints.
+$Deo gratias
+_
+V. Precious in the sight of the Lord.
+R. Is the death of his saints. 
+
+[MM Capitulum C3p]
+!Sap 5:5
+v. Behold how they are numbered among the children of God, and their lot is among the saints.
+$Deo gratias
+_
+V. Precious in the sight of the Lord.
+R. Is the death of his saints. 
+
+[MM Capitulum C4]
+!Eccli 44:20
+v. There was not found the like to him in glory, who kept the law of the most High, and was in covenant with him. Therefore by an oath he gave him glory in his posterity.
+$Deo gratias
+_
+V. The righteous shall grow as the lily.
+R. Yea, he shall flourish in the presence of the Lord for ever.
+
+[MM Capitulum C5]
+!Eccli 39:6
+v. The just will give his heart to resort early to the Lord that made him, and he will pray in the sight of the most High.
+$Deo gratias
+_
+V. The righteous shall grow as the lily.
+R. Yea, he shall flourish in the presence of the Lord for ever.
+
+[MM Capitulum C6]
+!2 Cor 11:2
+v.  For I am jealous of you with the jealousy of God. For I have espoused you to one husband that I may present you as a chaste virgin to Christ.
+$Deo gratias
+_
+V. Thou hast loved righteousness, and hated iniquity.
+R. Therefore God, thy God, hath anointed thee with the oil of gladness.
+
+[MM Capitulum C6m]
+!Eccli 51:4-5
+v. And thou hast delivered me, according to the multitude of the mercy of thy name, from them that did roar, prepared to devour. Out of the hands of them that sought my life, and from the gates of afflictions, which compassed me about.
+$Deo gratias
+_
+V. Thou hast loved righteousness, and hated iniquity.
+R. Therefore God, thy God, hath anointed thee with the oil of gladness.
+
+[MM Capitulum C7]
+!Prov 31:20-21
+v. She hath opened her hand to the needy, and stretched out her hands to the
+poor. She shall not fear for her house in the cold of snow.
+$Deo gratias
+_
+V. Thou hast loved righteousness, and hated iniquity.
+R. Therefore God, thy God, hath anointed thee with the oil of gladness.

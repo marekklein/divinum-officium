@@ -1,11 +1,18 @@
-[Rank]
+[Rank](rubrica 1570 aut rubrica 1910 aut rubrica divino)
 De III die Infra Octavam Conceptionis Immaculatæ Beatæ Mariæ Virginis;;Semiduplex;;2.5;;vide Sancti/12-08
 
-[Rule]
+[Rank](rubrica 1955)
+S. Melchiadis Papæ et Martyris;;Simplex;;1.1;;vide C2
+
+[Rule](rubrica 1570 aut rubrica 1910 aut rubrica divino)
 vide Sancti/12-08;
 9 lectiones;
 CPapaM=Melchíadem;
 Doxology=Nat
+
+[Rule](rubrica 1955)
+vide C2;
+OPapaM=Melchíadem;
 
 [Lectio4]
 Ex Bulla dogmatica Pii Papæ IX
@@ -19,12 +26,12 @@ Itaque eadem Romana Ecclesia nihil potius habuit, quam eloquentissimis quibusque
 Insuper summopere lætati sunt decernere Conceptionis festum ab omni ecclesia esse habendum eodem censu ac numero quo festum Nativitatis, idemque Conceptionis festum cum octava ab universa Ecclesia celebrandum, et ab omnibus inter ea quæ præcepta sunt, sancte colendum, ac pontificiam capellam in patriarchali nostra Liberiana basilica die Virginis Conceptionis sacro quotannis esse peragendam. Atque exoptantes in fidelium animis quotidie magis fovere hanc de Immaculata Deiparæ Conceptione doctrinam, eorumque pietatem excitare ad ipsam Virginem sine labe originali conceptam colendam et venerandam, gavisi sunt quam libentissime facultatem tribuere, ut in Lauretanis Litaniis, et in ipsa Missæ Præfatione Immaculatus eiusdem Virginis proclamaretur Conceptus, atque adeo lex credendi ipsa supplicandi lege statueretur.
 
 [Lectio7]
-Léctio sancti Evangélii secúndum Lucam.
+Léctio sancti Evangélii secúndum Lucam
 !Luc 1:26-28
 In illo témpore: Missus est Angelus Gabriel a Deo in civitatem Galilææ, cui nomen Nazareth, ad Virginem desponsatam viro, cui nomen erat Joseph, de domo David, et nomen Virginis Maria. Et réliqua.
 _
-Homilia sancti Bernardi Abbatis.
-!Ex Homilia 2. super Missus.
+Homilía sancti Bernárdi Abbátis
+!Ex Homilía 2 super Missus
 Lætare, pater Adam, sed magis tu, o Heva mater, exsulta, qui sicut omnium parentes, ita omnium fuistis peremptores; et quod infelicius est, prius peremptores quam parentes. Ambo, inquam, consolamini super filia, et tali filia, sed illa amplius de qua malum ortum est prius, cujus opprobrium in omnes pertransivit mulieres. Instat namque tempus, quo jam tollatur opprobrium, nec habeat vir quid causetur adversus feminam: qui utique, dum se imprudenter excusare conaretur, crudeliter illam accusare non cunctatus est, dicens: Mulier quam dedisti mihi, dedit mihi de ligno, et comedi. Propterea curre Heva ad Mariam; curre mater ad filiam; filia pro matre respondeat: ipsa matris opprobrium auferat; ipsa patri pro matre satisfaciat: quia ecce si vir cecidit per feminam, jam non erigitur nisi per feminam.
 
 [Lectio8]
@@ -34,6 +41,6 @@ Quid dicebas, o Adam? Mulier quam dedisti mihi, dedit mihi de ligno, et comedi. 
 Quam tibi aliam prædixisse Deus videtur, quando ad serpentem ait: Inimicitias ponam inter te et mulierem? Et si adhuc dubitas, quod de Maria dixerit, audi quod sequitur: Ipsa conteret caput tuum. Cui hæc servata victoria est, nisi Mariæ? Ipsa procul dubio caput contrivit venenatum, quæ omnimodam maligni suggestionem tam de carnis illecebra, quam de mentis superbia deduxit ad nihilum. Quam vero aliam Salomon requirebat, cum dicebat: Mulierem fortem quis inveniet? Noverat quippe vir sapiens hujus sexus infirmitatem, fragile corpus, lubricam mentem. Quia tamen et Deum legerat promisisse, et ita videbat congruere, ut qui vicerat per feminam, vinceretur per ipsam, vehementer admirans ajebat: Mulierem fortem quis inveniet? Quod est dicere: si ita de manu feminæ pendet et nostra omnium salus, et innocentiæ restitutio, et de hoste victoria: fortis omnino necesse est ut provideatur, quæ ad tantum opus possit esse idonea.
 &teDeum
 
-[Commemoratio]
+[Commemoratio](rubrica divino)
 !Commemoratio S. Melchiadis Papæ et Martyris
 @Commune/C2:Oratio Gregem

@@ -49,6 +49,9 @@ Sicut fuit, sit júgiter
 Sæclum per omne glória.
 Amen.
 
+[Hymnus Vespera](rubrica 1570)
+@:HymnusM Vespera
+
 [HymnusM Vespera]
 {:H-Exsultetorbisgaudiis:}v. Exsúltet cælum láudibus,
 resúltet terra gáudiis:
@@ -91,6 +94,33 @@ Tradent enim vos * in concíliis, et in synagógis suis flagellábunt vos, et an
 [Invit]
 Regem Apostolórum Dóminum, * Veníte adorémus.
 
+[HymnusM Matutinum]
+v. Ætérna Christi múnera,
+Apostolórum glóriam,
+Laudes canéntes débitas
+Lætis canámus méntibus.
+_
+Ecclesiárum Príncipes,
+Belli triumpháles Duces,
+Cæléstis aulæ mílites,
+Et vera mundi lúmina.
+_
+Devóta Sanctórum fides,
+Invícta spes credéntium,
+Perfécta Christi cáritas
+Mundi triúmphæ príncipem.
+_
+In his Patérna glória,
+In his volúntas Spíritus,
+Exúltat in his Fílius,
+Cælum replétur gáudio.
+_
+Te nunc, Redémptor, quæsumus,
+Ut ipsórum consórtio
+Iungas precántes sérvulos
+In sempiterna sǽcula.
+Amen.
+
 [Hymnus Matutinum]
 {:H-AeternaChristi:}v. Ætérna Christi múnera,
 Apostolórum glóriam,
@@ -129,9 +159,9 @@ Dedísti hereditátem * timéntibus nomen tuum, Dómine.;;60
 Annuntiavérunt * ópera Dei, et facta ejus intellexérunt.;;63
 V. Constítues eos príncipes super omnem terram.
 R. Mémores erunt nóminis tui, Dómine.
-Exaltabúntur * córnua justi. Allelúia.;;74
-Lux orta est * justo, allelúia, rectis corde lætítia. Allelúia.;;96
-Custodiébant * testimónia ejus, et præcépta ejus. Allelúia.;;98
+Exaltabúntur * córnua justi. Allelúja.;;74
+Lux orta est * justo, allelúja, rectis corde lætítia. Allelúja.;;96
+Custodiébant * testimónia ejus, et præcépta ejus. Allelúja.;;98
 V. Nimis honoráti sunt amíci tui Deus.
 R. Nimis confortátus est principátus eórum.
 
@@ -182,8 +212,8 @@ R. Dábitur enim vobis in illa hora, quid loquámini.
 
 [Lectio4]
 Sermo sancti Gregórii Papæ
-!Homilía 30 in Evangélia, post médium
-Scriptum est: Spíritus Dómini ornávit cælos. Ornaménta enim cælórum sunt virtútes prædicántium. Quæ vidélicet ornaménta Paulus enúmerat, dicens: Álii datur per Spíritum sermo sapiéntiæ, álii sermo sciéntiæ secúndum eúmdem Spíritum, álteri fides in eódem Spíritu, álii grátia sanitátum in uno Spíritu, álii operátio virtútum, álii prophetía, álii discrétio spirítuum, álii génera linguárum, álii interpretátio sermónum. Hæc autem ómnia operátur unus atque idem Spíritus, dívidens síngulis prout vult.
+!Homilia 30 in Evangelia, post medium
+Scriptum est: Spíritus Dómini ornávit cælos. Ornaménta enim cælórum sunt virtútes prædicántium. Quæ vidélicet ornaménta Paulus enúmerat, dicens: Álii datur per Spíritum sermo sapiéntiæ, álii sermo sciéntiæ secúndum eúndem Spíritum, álteri fides in eódem Spíritu, álii grátia sanitátum in uno Spíritu, álii operátio virtútum, álii prophetía, álii discrétio spirítuum, álii génera linguárum, álii interpretátio sermónum. Hæc autem ómnia operátur unus atque idem Spíritus, dívidens síngulis prout vult.
 
 [Responsory4]
 R. Vidi conjúnctos viros, habéntes spléndidas vestes, et Ángelus Dómini locútus est ad me, dicens:
@@ -204,7 +234,7 @@ R. Gaudéte et exsultáte, quóniam merces vestra copiósa est in cælis.
 Certe iste ipse pastor Ecclésiæ, ad cujus sacratíssimum corpus sedémus, quantæ debilitátis, quantǽque formídinis ante advéntum Spíritus fúerit, ancílla ostiária requisíta dicat. Una enim mulíeris voce percúlsus, dum mori tímuit, Vitam negávit. Et pensándum, quia eum comprehénsum Petrus negávit in terra, quem suspénsum latro conféssus est in cruce. Sed vir iste tantæ formídinis, qualis post advéntum Spíritus exsístat, audiámus. Fit convéntus magistrátus atque seniórum, cæsis denuntiátur Apóstolis, ne in nómine Jesu loqui débeant: Petrus magna auctoritáte respóndet: Obedíre opórtet Deo magis quam homínibus.
 
 [Responsory6]
-R. Isti sunt triumphatóres et amíci Dei, qui contemnéntes jussa príncipum, meruérunt præmia ætérna:
+R. Isti sunt triumphatóres et amíci Dei, qui contemnéntes jussa príncipum, meruérunt prǽmia ætérna:
 * Modo coronántur, et accípiunt palmam.
 V. Isti sunt qui venérunt ex magna tribulatióne, et lavérunt stolas suas in sánguine Agni.
 R. Modo coronántur, et accípiunt palmam.
@@ -242,7 +272,7 @@ Ex occasióne hujus senténtiæ quidam introdúcunt mille annos post resurrecti�
 &teDeum
 
 [Ant Laudes]
-Hoc est præcéptum meum, * ut diligátis invicem, sicut diléxi vos.
+Hoc est præcéptum meum, * ut diligátis ínvicem, sicut diléxi vos.
 Majórem caritátem * nemo habet, ut ánimam suam ponat quis pro amícis suis.
 Vos amíci mei estis, * si fecéritis quæ præcípio vobis, dicit Dóminus.
 Beáti pacífici, * beáti mundo corde: quóniam ipsi Deum vidébunt.
@@ -261,7 +291,7 @@ V. Annuntiavérunt ópera Dei.
 R. Et facta ejus intellexérunt.
 
 [Ant 2]
-Vos qui reliquístis * ómnia, et secúti estis me, centúplum accipiétis, et vitam ætérnam possidébitis.
+Vos qui reliquístis * ómnia, et secúti estis me, céntuplum accipiétis, et vitam ætérnam possidébitis.
 
 [Oratio]
 Quǽsumus, omnípotens Deus, ut beátus N. Apóstolus, cujus prævenímus festivitátem, tuum pro nobis implóret auxílium: ut a nostris reátibus absolúti a cunctis étiam perículis eruámur.
@@ -327,4 +357,4 @@ Confortátus est * principátus eórum, et honoráti sunt amíci tui, Deus.;;138
 @:Versum 2
 
 [Ant 3]
-Estóte fortes * in bello, et pugnáte cum antíquo serpénte: et accipiétis regnum ætérnum. Allelúia.
+Estóte fortes * in bello, et pugnáte cum antíquo serpénte: et accipiétis regnum ætérnum. Allelúja.

@@ -1,5 +1,5 @@
 [Rank]
-S. Thomæ de Villanova Epíscopi et Confessóris;;Duplex;;3;;vide C4
+S. Thomæ de Villanova Episcopi et Confessoris;;Duplex;;3;;vide C4
 
 [Rule]
 vide C4;mtv
@@ -13,10 +13,10 @@ Deus, qui beátum Thomam Pontíficem insígnis in páuperes misericórdiæ virt�
 $Per Dominum
 
 [Commemoratio]
-!Commemoratio Ss. Mauritii et Sociorum Martyrum
+!Commemoratio Ss. Mauritii et Sociorum Mártyrum
 @Commune/C3:Oratio proper
 $Oremus
-Annue, quǽsumus, omnípotens Deus: ut sanctórum Mártyrum tuórum Maurítii et Sociórum ejus nos lætíficet festíva solémnitas; ut, quorum suffrágiis nítimur, eórum natalíciis gloriémur.
+v. Annue, quǽsumus, omnípotens Deus: ut sanctórum Mártyrum tuórum Maurítii et Sociórum ejus nos lætíficet festíva solémnitas; ut, quorum suffrágiis nítimur, eórum natalíciis gloriémur.
 $Per Dominum
 
 [Lectio4]
@@ -30,7 +30,7 @@ Granaténsis archiepíscopus designátus, mira humilitate et constántia insigne
 
 [Lectio93]
 !Commemoratio pro Ss. Mauritio et Soc. Mart. 
-Cum Maximianus imperátor, ducto in Gálliam exercitu, in fínibus Sedunórum sacrifícii causa constitísset, Thebæórum legio, ne se impiórum sacrórum societáte contaminaret, a réliquis copiis discessit. Quare imperátor misit ad eos milites, qui suo nómine nuntiárent ut, si salvi esse vellent, in castra ad sacrifícia redirent: qui se christiana religióne impediri respondérunt. Quorum responsum ille indigníssime ferens, majori iracúndia quam antea exársit. Itaque, immissa parte exercitus in Thebæos, décimum quemque eórum primum occídi jussit; quod martyrium sua sponte, maximeque hortatore Mauritio, ferre maluérunt quam imperáta fácere nefarii imperatóris. Ac deinde réliquos omnes, constantíssime Christum prædicántes, décimo Kalendas Octobris ab universo exercitu trucidari imperat.
+Cum Maximiánus imperátor, ducto in Gálliam exercitu, in fínibus Sedunórum sacrifícii causa constitísset, Thebæórum legio, ne se impiórum sacrórum societáte contamináret, a réliquis cópiis discéssit. Quare imperátor misit ad eos mílites, qui suo nómine nuntiárent ut, si salvi esse vellent, in castra ad sacrifícia redírent: qui se christiána religióne impedíri respondérunt. Quorum respónsum ille indigníssime ferens, majori iracúndia quam antea exársit. Itaque, immíssa parte exércitus in Thebǽos, décimum quemque eórum primum occídi jussit; quod martýrium sua sponte, maximéque hortatóre Maurítio, ferre maluérunt quam imperáta fácere nefárii imperatóris. Ac deínde réliquos omnes, constantíssime Christum prædicántes, décimo Kaléndas Octóbris ab univérso exércitu trucidári ímperat.
 &teDeum
 
 [Ant 2]

@@ -1,6 +1,6 @@
 &Vidiaquam
 
-# Inizio
+# Incipit
 !Il Sacerdote pronto quando entra all'Altare, fatta ivi la debita reverenza, si segna con il segno di croce dalla fronte al petto, e dice ad alta voce:
 v. Nel nome del Padre + e del Figlio e dello Spirito Santo. Amen.
 
@@ -36,7 +36,7 @@ v. Confesso a Dio onnipotente, alla beata sempre Vergine Maria, al beato Michele
 !x!!e si alza. Quindi i Ministri ripetono la Confessione: e dove dal sacerdote veniva detto a voi, fratelli, e voi, fratelli, dai Ministri viene detto a te, padre, e te, padre. 
 !x!M. Confesso a Dio onnipotente, alla beata sempre Vergine Maria, al beato Michele Arcangelo, al beato Giovanni Battista, ai Santi Apostoli Pietro e Paolo, a tutti i Santi e a te, o padre, di aver molto peccato, in pensieri, parole ed opere:  (ci si batte il petto per tre volte) per mia colpa, per mia colpa, per mia grandissima colpa. E perciò supplico la beata sempre Vergine Maria, il beato Michele Arcangelo, il beato Giovanni Battista, i Santi Apostoli Pietro e Paolo, tutti i Santi, e te, o padre, di pregare per me il Signore Dio nostro. 
 !Poi il Sacerdote, a mani giunte, fa l'assoluzione, dicendo:
-S. Dio onnipotente abbia pietà di noi (voi) e, rimessi i nostri (vostri) peccati, ci (vi) conduca alla vita eterna. 
+S. Dio onnipotente abbia pietà di voi e, rimessi i vostri peccati, vi conduca alla vita eterna. 
 R. Amen.
 !Si segna col segno di croce, dicendo:
 S. Il Signore onnipotente e misericordioso (facciamo un segno di croce) + ci accordi il perdono, l'assoluzione e la remissione dei nostri peccati. 
@@ -349,7 +349,6 @@ v. Il Sangue di nostro Signore Gesú Cristo custodisca l'anima mia per la vita e
 
 &Communio_Populi
 wait16
-{ Anima di Cristo, santíficami.  Corpo di Cristo, sàlvami.  Sangue di Cristo, inébriami.  Acqua del fianco di Cristo, làvami.  Passione di Cristo, confòrtami.  O buon Gesú, esaudíscimi.  Nascòdimi fra le tue piaghe.  Non perméttere che mi separi da Te.  Diféndimi dal nemico maligno.  Chiàmami nell’ora della mia morte.  E comanda che io venga da Te.  Affinché Ti lodi con i tuoi Santi.  Nei secoli dei secoli. Amen }
 
 !Poi dice:
 v. Ciò che con la bocca abbiamo ricevuto, fa, o Signore, che l'accogliamo con anima pura, e da dono temporaneo ci diventi rimedio sempiterno. 

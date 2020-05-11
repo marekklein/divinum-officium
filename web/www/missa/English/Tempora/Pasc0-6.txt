@@ -9,30 +9,29 @@ Suffr=Ecclesiae,Papa;;
 
 [Introitus]
 !Ps 104:43
-v. He brought forth his people with joy, and his chosen with gladness, allelúja, allelúja.
-!Ps 104:1
+v. He brought forth his people with joy, and his chosen with gladness, allelÃºja, allelÃºja.
+!Ps 4:1
 v. Give glory to the Lord, and call upon his name: declare his deeds among the Gentiles.
 &Gloria
-v. He brought forth his people with joy, and his chosen with gladness, allelúja, allelúja.
+v. He brought forth his people with joy, and his chosen with gladness, allelÃºja, allelÃºja.
 
 [Oratio]
 Grant, we beseech thee, O Almighty God, that we who have kept worshipfully the~
-Passover holidays, may at last worthily pass from keeping Feasts unto thee here~
+Easter solemnities, may at last worthily pass from keeping Feasts unto thee here~
 to the everlasting jubilation hereafter. 
 $Per Dominum
 
 [Lectio]
-Lesson from the first letter of St Peter the Apostle
+Lesson from the first letter of St. Peter the Apostle
 !1 Pet 2:1-10
 v. Beloved: Wherefore laying away all malice, and all guile, and dissimulations, and envies, and all detractions, As newborn babes, desire the rational milk without guile, that thereby you may grow unto salvation: If so be you have tasted that the Lord is sweet. Unto whom coming, as to a living stone, rejected indeed by men, but chosen and made honourable by God: Be you also as living stones built up, a spiritual house, a holy priesthood, to offer up spiritual sacrifices, acceptable to God by Jesus Christ. Wherefore it is said in the scripture: Behold, I lay in Sion a chief corner stone, elect, precious. And he that shall believe in him, shall not be confounded. To you therefore that believe, he is honour: but to them that believe not, the stone which the builders rejected, the same is made the head of the corner: And a stone of stumbling, and a rock of scandal, to them who stumble at the word, neither do believe, whereunto also they are set. But you are a chosen generation, a kingly priesthood, a holy nation, a purchased people: that you may declare his virtues, who hath called you out of darkness into his marvellous light: Who in time past were not a people: but are now the people of God. Who had not obtained mercy; but now have obtained mercy.
 
 [Graduale]
 Alleluia, alleluia
 !Ps 117:24
-This is the day, the Lord had made, let us rejoice and be glad in it. Allelúja,
+This is the day, the Lord had made, let us rejoice and be glad in it. AllelÃºja,
 !Ps 112:1
 v.  Praise the Lord, ye children: praise ye the name of the Lord.
-! Ab hac die usque ad Sabbatum Quatuor Temporum Pentecostes inclusive, in omnibus Missis, non dicitur Graduale sed quatuor Allelúja cum duobus Versibus, ordine infrascripto; in Missa tamen Rogationum, in Vigilia Pentecostes et post quamlibet Lectionem in Sabbato Quatuor Temporum ejusdem, unum Allelúja dicitur cum unico Versu. Allelúja, allelúja
 
 [Sequentia]
 @Tempora/Pasc0-0:Sequentia
@@ -44,7 +43,7 @@ v.  In that time, on the first day of the week, Mary Magdalen cometh early, when
 
 [Offertorium]
 !Ps 117:26-27
-v.  Blessed be he that cometh in the name Lord. We have blessed you out of the house of the Lord. The Lord is God, and he hath shone upon us, allelúja, allelúja.
+v.  Blessed be he that cometh in the name Lord. We have blessed you out of the house of the Lord. The Lord is God, and he hath shone upon us, allelÃºja, allelÃºja.
 
 [Secreta]
 Grant us O Lord, we beseech thee, ever to rejoyce in these Paschal mysteries, that, by the continual application of our redemption we may come to endless happiness.
@@ -52,7 +51,7 @@ $Per Dominum
 
 [Communio]
 !Gal 3:27
-v.  For as many of you as have been baptized in Christ, have put on Christ, allelúja.
+v.  For as many of you as have been baptized in Christ, have put on Christ, allelÃºja.
 
 [Postcommunio]
 Invigorated by the gift of redemption, we beseech thee, O Lord, that by this means of eternal salvation, the true faith may prosper evermore. 
